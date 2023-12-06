@@ -1,0 +1,34 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+
+}
+body{
+    justify-self: center;   
+}
+.Hero{
+    position: absolute;
+    margin-left: 80px;
+}
+.Hero h1{
+    font-size: 60px;
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 20px;
+
+}
+.About pre{
+    font-size: 10px;
+    position:absolute: 10%;
+    margin-bottom: 100px;
+}
+.About h1{
+    margin-left: 50px;
+}
+.portfolio{
+    font-size: 80px;
+    text-decoration: none;
+    color: darkgreen;
+    margin-top: 10px;
+
+}
